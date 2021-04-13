@@ -1,0 +1,61 @@
+body{
+	background-color: #FFDBBE;
+	
+}
+h1{
+	font-family: fantasy;
+	font-size: 3em;
+	color: #850B6E;
+	border-bottom: 2px solid #4646CA;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+	margin-top: 20px;
+
+}
+ img{ 
+ 	margin-top: 10px;
+	background-repeat: no-repeat;
+  background-size: 300px 100px; 
+  padding: 20px;
+ }
+hr{
+	border-color: #F05F44;
+	border-width: 3px;
+}
+.buffer{
+	height:5px;
+}
+ .div1{
+ 	text-align:center;
+	background-color: #FFD558;
+	color: blue;
+	border: 5px solid red;
+	line-height: 25px;
+	font-weight: bold;
+	padding: 2px;
+	display: run-in;
+	width:600px;
+	margin: 20px 20px;
+	margin-left: 350px
+}
+ 
+ .btn{
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+.btn-primary{
+	background-color: #F05F44;
+	border-color: #F05F44;
+}
+.btn-primary:hover{
+	background-color: #EE4B08;
+	border-color: #EE4B08;
+	border-width: 4px;
+}
+.btn-xl{
+	padding: 1rem 2rem;
+}
+ 
+ 
+
